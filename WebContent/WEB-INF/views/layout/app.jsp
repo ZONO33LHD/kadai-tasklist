@@ -18,7 +18,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by S.M.
+                by AAAAAA
             </div>
         </div>
     </body>
